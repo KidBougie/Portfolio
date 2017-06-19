@@ -8,6 +8,7 @@ body {
    text-align: left;
   text-align: right;
   text-align: center;
+  background-color: #000000;
 }
 
 .top-image {
@@ -28,7 +29,7 @@ padding-top: 20px;
 }
 
 h1 {
-  font-family: BebasNeue ;, Light;
+  font-family: BebasNeue, Light;
   font-size: 68px;
   color: #A5A5A5;
   margin: auto;
@@ -93,7 +94,7 @@ a {
 {
 
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
   display: block;
     margin: auto;
 	position: absolute;
